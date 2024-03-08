@@ -1,16 +1,16 @@
 {
     "studentnumber": ,
     "name": "",
-	"pass_num": "",
+    "pass_num": "",
     "year": "****/**/**",
     "city": "",
-	"prov": "",
-	"add": "",
+    "prov": "",
+    "add": "",
     "post": "",
     "pnumb": "",
     "hnumb": "",
     "danesh": "",
-	"fos": "",
-	"mstate": "",
-	"merli": ""
+    "fos": "",
+    "mstate": "",
+    "merli": ""
 }
